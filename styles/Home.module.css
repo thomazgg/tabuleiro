@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centraliza verticalmente */
+  align-items: center; /* Centraliza horizontalmente */
+  height: 100vh; /* Define a altura do elemento pai como 100% da altura da janela */
+}
